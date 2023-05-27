@@ -9,9 +9,10 @@ addon:GenerateCallbackEvents({
 CallbackRegistryMixin.OnLoad(addon);
 
 TheBoringDad_DailiesMixin = {
-    type = "frame",
-    name = "Dailies",
-    icon = "QuestDaily",
+    launcher = {
+        name = "Dailies",
+        icon = "QuestDaily",
+    },
     selectedCharacter = "",
 };
 

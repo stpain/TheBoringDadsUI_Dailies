@@ -1,8 +1,9 @@
 ## Name: TheBoringDadsUI
 ## Version: 0.1
-## Notes:
+## Notes: Plugin for TheBoringDadsUI to track dailiy quests
 ## SavedVariables: TBD_DB_DAILIES
 ## Dependencies: TheBoringdadsUI
+## Interface: 30401
 
 TheBoringDadsUI_Dailies.lua
 TheBoringDadsUI_Dailies.xml
