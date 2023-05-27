@@ -1,0 +1,8 @@
+## Name: TheBoringDadsUI
+## Version: 0.1
+## Notes:
+## SavedVariables: TBD_DB_DAILIES
+## Dependencies: TheBoringdadsUI
+
+TheBoringDadsUI_Dailies.lua
+TheBoringDadsUI_Dailies.xml
